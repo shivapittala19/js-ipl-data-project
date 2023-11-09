@@ -1,0 +1,42 @@
+{
+  "2008": {
+    "maxStrikeRate": "205.26",
+    "batsman": "Umar Gul"
+  },
+  "2009": {
+    "maxStrikeRate": "185.71",
+    "batsman": "MS Gony"
+  },
+  "2010": {
+    "maxStrikeRate": "220.00",
+    "batsman": "MC Henriques"
+  },
+  "2011": {
+    "maxStrikeRate": "250.00",
+    "batsman": "SB Styris"
+  },
+  "2012": {
+    "maxStrikeRate": "400.00",
+    "batsman": "J Syed Mohammad"
+  },
+  "2013": {
+    "maxStrikeRate": "400.00",
+    "batsman": "RV Gomez"
+  },
+  "2014": {
+    "maxStrikeRate": "400.00",
+    "batsman": "AN Ahmed"
+  },
+  "2015": {
+    "maxStrikeRate": "216.67",
+    "batsman": "MJ McClenaghan"
+  },
+  "2016": {
+    "maxStrikeRate": "233.33",
+    "batsman": "R Dhawan"
+  },
+  "2017": {
+    "maxStrikeRate": "233.33",
+    "batsman": "SL Malinga"
+  }
+}

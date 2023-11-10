@@ -131,3 +131,6 @@ dist
 
 # ignore csv files
 *.csv
+
+#ignore launch.json
+*.vscode

@@ -42,7 +42,7 @@ function bestEconomySuperOver(deliveriesData){
         (a, b) => a[1] - b[1]
       )[0]
 
-    const [bestBowlerName, economy] = bestEconomyBowler;
+    const [bestBowlerName, economy] = bestEconomyBowler
 
     const bestBowlerObject = {
         [bestBowlerName]: economy,
@@ -51,4 +51,4 @@ function bestEconomySuperOver(deliveriesData){
     return bestBowlerObject
 }
 
-module.exports = bestEconomySuperOver;
+module.exports = bestEconomySuperOver

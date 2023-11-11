@@ -56,4 +56,4 @@ function topEconomicalBowlers(deliveriesData,matchesData){
     return convertedData
 }
 
-module.exports = topEconomicalBowlers;
+module.exports = topEconomicalBowlers

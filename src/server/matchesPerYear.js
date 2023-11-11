@@ -13,4 +13,4 @@ function matchesPerYear(matchesData){
     
 }
 
-module.exports = matchesPerYear;
+module.exports = matchesPerYear

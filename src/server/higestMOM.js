@@ -48,7 +48,7 @@ function higestPlayerOfTheMatches(matchesData){
         { player: '', awards: 0 }
         );
     }
-    return highestAwardsBySeason;
+    return highestAwardsBySeason
 }
 
-module.exports = higestPlayerOfTheMatches;
+module.exports = higestPlayerOfTheMatches

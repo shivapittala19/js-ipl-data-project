@@ -19,4 +19,4 @@ function matchesWonPerTeamYear(deliveriesData){
 
 }
 
-module.exports = matchesWonPerTeamYear;
+module.exports = matchesWonPerTeamYear

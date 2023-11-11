@@ -22,4 +22,4 @@ function extraRunsConceded(deliveriesData,matchesData){
 
 }
 
-module.exports = extraRunsConceded;
+module.exports = extraRunsConceded

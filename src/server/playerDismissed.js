@@ -20,8 +20,8 @@ function playerDismissedByBowler(deliveriesData){
             return dismissalCount
         },{})
 
-    let maxDismissals = 0;
-    let mostFrequentDismissal = {};
+    let maxDismissals = 0
+    let mostFrequentDismissal = {}
 
     for (const batsman in dismissedPlayerBowler) {
       for (const bowler in dismissedPlayerBowler[batsman]) {
@@ -36,4 +36,4 @@ function playerDismissedByBowler(deliveriesData){
 
 }
 
-module.exports = playerDismissedByBowler;
+module.exports = playerDismissedByBowler

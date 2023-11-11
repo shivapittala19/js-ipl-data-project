@@ -44,4 +44,4 @@ function bestStrikeRate(matchesData,deliveriesData){
     return higestStrikeRateSeason
 }
 
-module.exports = bestStrikeRate;
+module.exports = bestStrikeRate

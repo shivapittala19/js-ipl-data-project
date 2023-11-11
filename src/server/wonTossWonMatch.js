@@ -15,4 +15,4 @@ function wonTossWonMatch(matchesData){
     },{})
 }
 
-module.exports = wonTossWonMatch;
+module.exports = wonTossWonMatch

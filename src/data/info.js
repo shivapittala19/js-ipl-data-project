@@ -16,4 +16,4 @@ const {data:deliveriesData} = parser.parse(deliveries, {
     skipEmptyLines:true
 })
 
-module.exports={matchesData,deliveriesData};
+module.exports={matchesData,deliveriesData}
